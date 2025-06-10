@@ -1,3 +1,3 @@
-title: "About Me"
+layout: page
+title: About
 permalink: /about/
-layout: single
