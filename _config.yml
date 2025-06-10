@@ -28,7 +28,7 @@ defaults:
       author_profile: true
 
 # Navigation menu
-nav:
+navigation:
   - title: "Home"
     url: /
   - title: "About"
