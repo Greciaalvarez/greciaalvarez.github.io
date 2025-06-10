@@ -6,7 +6,6 @@ description: >-
 baseurl: "" 
 url: "https://greciaalvarez.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
-theme: jekyll-theme-primer
 
 plugins:
   - jekyll-feed
@@ -22,7 +21,7 @@ author:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
       layout: single
       author_profile: true
@@ -31,7 +30,7 @@ include:
   - _pages
 
 # Navigation menu
-navigation:
+nav:
   - title: "Home"
     url: /home/
   - title: "About"
