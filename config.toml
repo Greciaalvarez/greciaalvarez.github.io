@@ -1,1 +1,15 @@
+baseURL = "https://greciaalvarez.github.io/"
+languageCode = "es"
+title = "Grecia Zarella Alvarez Leyva"
+theme = "PaperMod"
 
+[params]
+  author = "Grecia Zarella Alvarez Leyva"
+  description = "Portfolio | Business Analytics Student | Python | AI & Trading | Sustainable Business"
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.social]
+  linkedin = "https://www.linkedin.com/in/greciaa/"
+  github = "https://github.com/Greciaalvarez"
+  email = "greciazarella09@gmail.com"
