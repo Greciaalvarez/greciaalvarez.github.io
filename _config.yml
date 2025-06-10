@@ -11,6 +11,7 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 author:
   name: Grecia Zarella Alvarez Leyva
