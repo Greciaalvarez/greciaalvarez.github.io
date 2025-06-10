@@ -1,7 +1,7 @@
 ---
 title: Grecia Alvarez Leyva
 subtitle: Investigadora en Inteligencia Artificial · Ciencia de Datos
-avatar: Photo profile.jpg
+avatar: static/images
 background:
   color: "#00695C"  # Cambia este código al color que prefieras
   image: ""         # O pon la ruta a una imagen de fondo si prefieres
