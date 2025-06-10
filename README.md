@@ -48,7 +48,7 @@ Jang, H., Lee, Y., & Park, J. (2024). *Short-term demand forecasting for bike-sh
 
 Woetzel, J., Baig, F., Choi, W., Garemo, N., Mischke, J., & Poh, F. (2019, February 25). *The future of mobility: How transportation is evolving. McKinsey & Company.* https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-future-of-mobility-mobility-evolves
 
- ### **4. Analysis Questions**
+ ### **4.Analysis Questions**
 
  1. **Why are the majority of users renting bicycles?**
 According to the dataset, the majority of users rent bicycles during June, on Thursday, specifically in the summer season, and this trend happens on non-holidays. These variables represent the most frequent values in the data, highlight a clear pattern in the consumer behavior. Summer is the season with the highest total number of rentals (420,714), followed by Autumn (346,564). This insight suggests that while Autumn and Spring represent a significant number of rentals, the Summer season has a strong demand, due to good weather, school vacations or tourism. Additionally, the preferences for renting bikes on regular weekdays and non-holidays indicate that bike rentals are commonly used for routine activities as commuting or local activities.
