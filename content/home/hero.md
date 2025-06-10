@@ -1,12 +1,16 @@
 ---
-title: Grecia Alvarez Leyva
-subtitle: Investigadora en Inteligencia Artificial · Ciencia de Datos
-avatar: static/images
-background:
-  color: "#00695C"  # Cambia este código al color que prefieras
-  image: ""         # O pon la ruta a una imagen de fondo si prefieres
+widget: hero
+headline: "Grecia Alvarez Leyva"
+subtitle: |
+  Investigadora en Inteligencia Artificial · Ciencia de Datos
+
+avatar: "static/Photo profile.JPG"
 cta:
   label: "Descargar CV"
   url: "files/CV-GreciaAlvarez.pdf"
-button: true
+  button: true
+design:
+  background:
+    color: "#004d40"
+    image: ""
 ---
