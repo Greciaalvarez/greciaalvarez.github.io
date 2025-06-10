@@ -14,9 +14,12 @@ plugins:
 
 author:
   name: Grecia Zarella Alvarez Leyva
-  avatar: "/assets/images/profile.jpg"
+  avatar: "assets/images/Photo profile.JPG"
   bio: "Business Analytics Student | Python | Trading | Sustainability & AI"
   location: San Francisco, CA
+  email: greciazarella09@gmail.com
+  linkedin: "https://www.linkedin.com/in/greciaalvarez/"
+  phone: "+1-257-209-1773"
 
 defaults:
   - scope:
