@@ -5,7 +5,7 @@ description: >-
 
 baseurl: "" 
 url: "https://greciaalvarez.github.io"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
