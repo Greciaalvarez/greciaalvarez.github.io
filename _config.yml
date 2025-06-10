@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-author: "Greciaalvarez"
+author: 
   name: "Grecia Zarella Alvarez Leyva"
   avatar: "/assets/images/Photo profile.JPG"
   bio: +1-257-209-1773 
