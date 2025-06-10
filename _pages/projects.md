@@ -2,6 +2,7 @@
 title: "Projects"
 permalink: /projects/
 author_profile: true
+toc: true
 ---
 
 ## Python & Jupyter Projects
