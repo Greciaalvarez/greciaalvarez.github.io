@@ -1,2 +1,37 @@
-title: Grecia Alvarez
+title: Grecia Alvarez Portfolio
+email: grecia@example.com
+description: >-
+  Portfolio of Grecia Zarella Alvarez Leyva – Business Analytics Student | Python Projects | AI & Trading | Sustainable Business
+
+baseurl: "" 
+url: "https://greciaalvarez.github.io"
 theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: Grecia Zarella Alvarez Leyva
+  avatar: "/assets/images/profile.jpg"
+  bio: "Business Analytics Student | Python | Trading | Sustainability & AI"
+  location: San Francisco, CA
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
