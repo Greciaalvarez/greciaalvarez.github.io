@@ -27,6 +27,9 @@ defaults:
       layout: single
       author_profile: true
 
+include:
+  - _pages
+
 # Navigation menu
 navigation:
   - title: "Home"
