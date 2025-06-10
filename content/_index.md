@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-06-10
 type: landing
 
 design:
@@ -13,11 +13,11 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "¡Hola! Soy Grecia Alvarez Leyva, investigadora en inteligencia artificial y ciencia de datos. Mi trabajo se centra en aprendizaje automático, procesamiento de lenguaje natural y ética en IA. Apasionada por la docencia y la tecnología responsable."
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV-GreciaAlvarez.pdf
     design:
       css_class: dark
       background:
