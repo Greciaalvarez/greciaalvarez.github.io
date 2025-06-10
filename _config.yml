@@ -20,6 +20,7 @@ author:
   email: greciazarella09@gmail.com
   linkedin: "https://www.linkedin.com/in/greciaalvarez/"
   phone: "+1-257-209-1773"
+  author_profile: true
 
 defaults:
   - scope:
