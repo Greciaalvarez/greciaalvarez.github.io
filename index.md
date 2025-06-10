@@ -8,7 +8,6 @@ author_profile: true
   <img src="/assets/images/ca2a5e10-69a5-4e0e-9d59-bdee896c978e.jpg" alt="Banner" style="display:block;width:100vw;max-width:100vw;height:380px;object-fit:cover;margin:0 auto;">
 </div>
 
-<!-- Este div agrega espacio debajo del banner para separar todo lo demás -->
 <div style="height:30px;"></div>
 
 Welcome to my site!
