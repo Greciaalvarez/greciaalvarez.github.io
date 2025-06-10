@@ -33,7 +33,7 @@ include:
 # Navigation menu
 navigation:
   - title: "Home"
-    url: /
+    url: /home/
   - title: "About"
     url: /about/
   - title: "Projects"
