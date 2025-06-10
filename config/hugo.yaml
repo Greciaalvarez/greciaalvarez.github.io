@@ -1,7 +1,7 @@
 # Website name
 title: Grecia Alvarez Leyva
 # Website URL
-baseURL: "https://greciaalvarez.github.io/"
+baseURL: https://greciaalvarez.github.io/
 
 ############################
 ## LANGUAGE
