@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Grecia Zarella Alvarez Leyva"
 author_profile: false
 ---
 
